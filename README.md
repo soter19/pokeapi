@@ -1,2 +1,0 @@
-# pokeapi
-Created with CodeSandbox
